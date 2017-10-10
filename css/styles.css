@@ -26,11 +26,14 @@ background-color: grey;
 img{
   height: 200px;
     width: 50%;
-    float: right;
+    float: center;
 }
 
 .sidebar {
   width: 30%;
   float: right;
-  background-color: yellow;
+  background-color: pink;
+  font-family: sans-serif;
+  font-style: oblique;
+
 }
