@@ -1,6 +1,9 @@
 h2{
   color: #f7325e;
-  margin-left: 300px;
+  margin-left: 500px;
+  font-style: oblique;
+  text-decoration: underline;
+  font-family: cursive;
 }
 h1{
   color: red;
@@ -27,19 +30,25 @@ body{
 background-color: grey;
 }
 
-img{
-  height: 200px;
-    width: 50%;
-    float: center;
-    margin-left: 190px;
-}
+
 
 .sidebar {
+  top: 60%;
   width: 30%;
-  float: right;
+  margin-left: 500px;
   font-family: sans-serif;
   font-style: oblique;
 background-image: url(../images/cloud.jpg);
 background-repeat: no-repeat;
 background-position: center;
+}
+
+.centered {
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-style: oblique;
+    color: red;
+    font-size: 45px;
 }
