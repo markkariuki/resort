@@ -1,0 +1,22 @@
+h2{
+  color: #f7325e;
+  margin-left: 300px;
+}
+
+.tropical{
+  color:#7dc410;
+  font-family: fantasy;
+  margin-left: 300px;
+}
+
+.popular{
+  color:pink;
+  font-family: cursive;
+  margin-left: 300px;
+  margin-right: 500px;
+  background-image: url(../images/hd.jpg);
+  background-position: center;
+}
+body{
+background-color: grey;
+}
