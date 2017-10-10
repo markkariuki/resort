@@ -2,6 +2,10 @@ h2{
   color: #f7325e;
   margin-left: 300px;
 }
+h1{
+  color: red;
+  text-decoration: underline;
+}
 
 .tropical{
   color:#7dc410;
@@ -27,13 +31,15 @@ img{
   height: 200px;
     width: 50%;
     float: center;
+    margin-left: 190px;
 }
 
 .sidebar {
   width: 30%;
   float: right;
-  background-color: pink;
   font-family: sans-serif;
   font-style: oblique;
-
+background-image: url(../images/cloud.jpg);
+background-repeat: no-repeat;
+background-position: center;
 }
