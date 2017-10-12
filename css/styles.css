@@ -27,7 +27,7 @@ h1{
 }
 
 body{
-  background-image: url(/home/david/Documents/travel-agency/images/lion-hd-wallpaper-085.jpg);
+  background-image: url(../images/hu.jpg);
   background-size: cover;
 }
 
@@ -51,7 +51,6 @@ background-position: center;
     font-style: oblique;
     color: white;
     font-size: 45px;
-float: left;
 }
 
 .jumbotron{
