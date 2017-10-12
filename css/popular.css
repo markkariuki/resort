@@ -1,5 +1,5 @@
 body{
-  background-image: url(../images/pa.jpeg);
+  background-image: url(../images/jkl.jpg);
   background-size: cover;
 }
 
@@ -17,4 +17,20 @@ h2{
   font-family: sans-serif;
   text-align: center;
   color: black;
+}
+
+p{
+  text-align: left;
+  margin-left: 400px;
+}
+
+h3{
+  text-align: left;
+  margin-left: 400px;
+}
+
+h4{
+  text-align: right;
+  color: black;
+  margin-right: 60px;
 }
