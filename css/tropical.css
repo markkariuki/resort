@@ -30,3 +30,15 @@ h3{
   text-align: center;
   color: purple;
 }
+
+p{
+  text-align: left;
+  color: black;
+  margin-left: 56px;
+}
+
+h4 a{
+  text-align: right;
+  color: black;
+  margin-left: 1010px;
+}
