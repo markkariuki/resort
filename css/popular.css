@@ -1,0 +1,20 @@
+body{
+  background-image: url(../images/pa.jpeg);
+  background-size: cover;
+}
+
+.jumbotron{
+background-color: black;
+}
+
+h2{
+  text-align: center;
+}
+
+.popular{
+  font-size: 45px;
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+}
