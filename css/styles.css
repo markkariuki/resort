@@ -15,7 +15,7 @@ h1{
   font-family: fantasy;
   margin-left: 300px;
   margin-right: 500px;
-  background-image: url(../images/cloud.jpg);
+  float:left;
 }
 
 .popular{
@@ -23,11 +23,12 @@ h1{
   font-family: cursive;
   margin-left: 300px;
   margin-right: 500px;
-  background-image: url(../images/hd.jpg);
   background-position: center;
 }
+
 body{
-background-color: grey;
+  background-image: url(/home/david/Documents/travel-agency/images/lion-hd-wallpaper-085.jpg);
+  background-size: cover;
 }
 
 
@@ -38,7 +39,6 @@ background-color: grey;
   margin-left: 500px;
   font-family: sans-serif;
   font-style: oblique;
-background-image: url(../images/cloud.jpg);
 background-repeat: no-repeat;
 background-position: center;
 }
@@ -51,6 +51,7 @@ background-position: center;
     font-style: oblique;
     color: white;
     font-size: 45px;
+float: left;
 }
 
 .jumbotron{
